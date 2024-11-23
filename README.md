@@ -1,6 +1,6 @@
 # Tailwind Issue Repro
 
-High CPU usage on bad css code.
+High CPU usage on bad css code. ([#15135](https://github.com/tailwindlabs/tailwindcss/issues/15135))
 
 ## Steps
 
